@@ -11,6 +11,15 @@
 |
 */
 
-$app->get('/', function () use ($app) {
-    return $app->version();
-});
+    $app->get('ua', [
+        'as' => 'ua',
+        function () {
+            return view('indexua');
+        }
+    ]);
+    $app->get('en', function () use ($app) {
+        return view('indexen');
+    });
+    $app->get('/', function () use ($app) {
+        return view('indexen');
+    });
