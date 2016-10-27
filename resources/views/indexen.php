@@ -53,7 +53,10 @@
 
                 <li><a href="#section6"><b>Participants</b></a></li>
                 <li><a href="#section7"><b>References</b></a></li>
-                <li><a href="/en" hreflang="en"><b>En</b></a> <a href="/uk" hreflang="uk"><b>Uk</b></a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/en"><b>En</b></a></li>
+                <li><a href="/uk"><b>Uk</b></a></li>
             </ul>
         </div>
     </div>
@@ -114,7 +117,7 @@
                                 </li>
                             </ul>
                             </p>
-                            <p><strong><u>Methodological principles:</u></strong>:
+                            <p><strong><u>Methodological principles:</u></strong>
                             <ul>
                                 <li>realization aboard one satellite complete diagnostics of ionosphere parameters by contact methods
 
@@ -132,7 +135,7 @@
                             </p>
 
                             <p>
-                                <strong><u>«Ionosat-Micro» scientific instrumentation is intended for registration:</u></strong>:<br>
+                                <strong><u>«Ionosat-Micro» scientific instrumentation is intended for registration:</u></strong><br>
                             <ul>
                                 <li>global dynamic structure and physical parameters of the neutral atmosphere (exosphere) and ionospheric plasma;
                                 </li>

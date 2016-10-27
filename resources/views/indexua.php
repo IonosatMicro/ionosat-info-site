@@ -53,7 +53,10 @@
 
                 <li><a href="#section6"><b>Консорціум</b></a></li>
                 <li><a href="#section7"><b>Джерела</b></a></li>
-                <li><a href="/en"><b>En</b></a> <a href="/uk"><b>Uk</b></a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/en"><b>En</b></a></li>
+                <li><a href="/uk"><b>Uk</b></a></li>
             </ul>
         </div>
     </div>
