@@ -11,8 +11,8 @@
 |
 */
 
-    $app->get('ua', [
-        'as' => 'ua',
+    $app->get('uk', [
+        'as' => 'uk',
         function () {
             return view('indexua');
         }

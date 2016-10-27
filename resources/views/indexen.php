@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>Ionosat-Micro</title>
@@ -53,6 +53,7 @@
 
                 <li><a href="#section6"><b>Participants</b></a></li>
                 <li><a href="#section7"><b>References</b></a></li>
+                <li><a href="/en" hreflang="en"><b>En</b></a> <a href="/uk" hreflang="uk"><b>Uk</b></a></li>
             </ul>
         </div>
     </div>

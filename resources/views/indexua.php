@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html  lang="uk">
 <head>
     <meta charset="utf-8">
     <title>Іоносат-Мікро</title>
@@ -53,6 +53,7 @@
 
                 <li><a href="#section6"><b>Консорціум</b></a></li>
                 <li><a href="#section7"><b>Джерела</b></a></li>
+                <li><a href="/en"><b>En</b></a> <a href="/uk"><b>Uk</b></a></li>
             </ul>
         </div>
     </div>
