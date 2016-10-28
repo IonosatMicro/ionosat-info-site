@@ -157,7 +157,7 @@
                                 <div class="panel-body ">
                                     <div class="panel panel-default">
                                         <div class="panel-body color">
-                                            <img src="/img/Microsat-M_small.gif"
+                                            <img src="/img/Microsat-M.gif"
                                                  class="center-block width-companion">
 
                                         </div>
@@ -311,9 +311,9 @@
                          data-width="321"
                          data-autoplay="true" data-arrows="false">
 
-                        <img src="/img/FGM_small.jpg">
-                        <img src="/img/WP_small.jpg">
-                        <img src="/img/EP_small.jpg">
+                        <img src="/img/FGM.jpg">
+                        <img src="/img/WP.jpg">
+                        <img src="/img/EP.jpg">
                     </div>
                 </div>
                 <div class="media-body media-middle">
@@ -335,7 +335,7 @@
                     <div class="fotorama"
                          data-width="321"
                          data-autoplay="true" data-arrows="false">
-                        <img src="/img/RFA_small.jpg">
+                        <img src="/img/RFA.jpg">
                     </div>
                 </div>
             </div>
@@ -347,8 +347,8 @@
                     <div class="fotorama"
                          data-width="321"
                          data-autoplay="true" data-arrows="false">
-                        <img src="/img/DE_small.jpg">
-                        <img src="/img/DN_small.jpg">
+                        <img src="/img/DE.jpg">
+                        <img src="/img/DN.jpg">
                     </div>
                 </div>
                 <div class="media-body media-middle">
@@ -374,7 +374,7 @@
                     <div class="fotorama"
                          data-width="321"
                          data-autoplay="true" data-arrows="false">
-                        <img src="/img/IDM_small.jpg">
+                        <img src="/img/IDM.jpg">
                     </div>
                 </div>
             </div>
@@ -387,7 +387,7 @@
                 <div class="fotorama"
                      data-width="321"
                      data-autoplay="true" data-arrows="false">
-                    <img src="/img/ССНИ_small.jpg">
+                    <img src="/img/ССНИ.jpg">
                 </div>
             </div>
             <div class="media-body media-middle">
